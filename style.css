@@ -1,0 +1,40 @@
+#carouselExampleIndicators{
+    margin-top: 200px;
+    height: 400px;
+}
+.d-block{
+    height: 350px;
+}
+.audio{
+    height: 400px;
+    width: 400px;
+    background-color:rgb(243, 214, 193);
+    float: left;
+    margin: 50px 50px 0px 50px;
+    justify-content: space-evenly;
+    border-radius: 20px;
+}
+#audio1{
+    height:330px;
+    width: 380px;
+    margin: 5px 5px 0px 5px;
+    align-items: center;
+}
+#text1{
+    color:black;
+    text-align: center;
+    font-size: 28px;
+}
+img{
+    height: 300px;
+    width: 380px;
+    margin: 10px;
+    /* padding: 5px; */
+}
+.audio:hover{
+    padding: 2px;
+}
+#main{
+    margin-top: 100px;
+}
+
